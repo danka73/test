@@ -1,0 +1,86 @@
+h1{
+    text-align:center;
+    font-size:40px;
+    font-family:  'Comfortaa', cursive;
+    margin-buttom:30px;
+
+}
+img{
+    height:150px;
+    width:200px;
+    margin-left:24%;
+    margin-top:-90px;
+    position: absolute;
+
+}
+#adress{
+    
+    font-size:30px;
+    margin-top:-30px;
+    margin-left:600px;
+    margin-top:15px ;
+   
+}
+#experience{
+    font-size:30px;
+    margin-top:-20px;
+    margin-left:600px; 
+}
+table{
+    border:3px solid #FF9F46;
+    height:150px;
+    width:800px; 
+    font-size:20px;
+    background-color:#78FFFF;
+    margin-top: 100px;
+}
+.tr{
+    font-weight:900;
+    width:100px;
+}
+#mail1{
+    font-size:25px;
+    margin-left:400px;
+    margin-top:70px;
+    
+}
+#mail{
+    margin-left:400px;
+    height:25px;
+    background-color:#49FF3C;
+    font-family: 'Titillium Web', sans-serif;
+    width: 150px;
+}
+#city{
+    margin-left:600px;
+    height:25px;
+    margin-top:-8px;
+    position:absolute;
+    background-color:#49FF3C;
+    font-family: 'Titillium Web', sans-serif;
+    width: 150px;
+    
+}
+#city1{
+    margin-left:1175px;
+    margin-top:-58px;
+    position:absolute;
+    font-size:25px;
+}
+#phone{
+    font-size:30px;
+    margin-top:-20px;
+    margin-left:600px; 
+}
+#lang{
+    margin-left: 400px;
+    font-size:30px;
+    font-family: 'Titillium Web', sans-serif;
+    position: absolute;
+    margin-top: -10px;
+   
+
+}
+body{
+    background-color:#FFF41E ;
+}
